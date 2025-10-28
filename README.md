@@ -18,9 +18,7 @@
 
 
 ## Skills
-- 💻 Flutter (Dart, Provider, Getx, Riverpod,http,Dio)
-- ⌨️ Spring Boot (Java,JDBC,Hibernate,JWT,JPA,redis,JUnit,Mockito)
-- 🗃️ SQL(MySQL)
+- 💻 HTML5 ,CSS3, Javascript , Bootstrap5 ,  Jquery , Responsive,  Wow.js, React JS
 
 ## Status 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">

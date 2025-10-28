@@ -1,17 +1,17 @@
 ### Hi I'm Rajesh Pattanayak 👋
- - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Flutter and Spring Boot 
+ - 🔭 I’m currently working as Frontend and Wordpress Developer
+- 🌱 I’m currently learning Reactjs and API Integration 
 - 💬 Ask me about Life & Technology
  
  ## ✍️ Languages,Frameworks ❤️
  <p float="right">
   
  <a href="">
-  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
-    <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
-    <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
-  <img align="center" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Html-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Css-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
+    <img align="center" src="https://img.shields.io/badge/Bootstrap-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
+    <img align="center" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+  <img align="center" src="https://img.shields.io/badge/ReactJs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </a>  
 </p>
 
